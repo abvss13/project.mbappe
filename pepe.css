@@ -1,0 +1,40 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  .time-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #time {
+    font-size: 48px;
+  }
+  
+  #statement {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #board {
+    margin-top: 20px;
+    display: inline-block;
+    border: 2px solid black;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .cell {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+  }
+  
